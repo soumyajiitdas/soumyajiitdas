@@ -4,9 +4,9 @@
 I am a passionate learner with a keen interest in python programming, AI, ML, computer vision, and automation. I enjoy working on innovative projects that enhance my coding skills and provide real-world applications.
 
 ## 🔧 Skills
-- **Programming Languages:** Python, C, Java(intermediate)
+- **Programming Languages:** Python, C, Java(basic)
+- **Soft Skills:** Problem Solving, Communication, Teamwork, Adaptability, Time management
 - **Libraries & Frameworks:** OpenCV, Pandas, Numpy
-- **Game Development:** Python-based games (Cricket 1v1, Snake & Ladder)
 - **Tools & Technologies:** Git, GitHub
 
 ## 💻 Projects
