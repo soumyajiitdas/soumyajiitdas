@@ -98,11 +98,11 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, Temwork 🫱
 > _“Don’t chase stars. Chase commits.” – Ancient Git Philosopher_
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit4119&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit4119&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
 </p>
 
 <br>
