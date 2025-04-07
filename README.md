@@ -1,4 +1,5 @@
-# Hi, I'm Soumyajit Das 👋 | Code. Create. Contribute. 🚀
+<h1> Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Code. Create. Contribute. 🚀</h1>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="center">
   <!-- Languages -->
@@ -96,8 +97,13 @@ Soft Skills |  Curiosity 🔍, Consistency 🔁, Communication 📢
 
 > _“Don’t chase stars. Chase commits.” – Ancient Git Philosopher_
 
-![Soumyajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=soumyajit4119&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img hight="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyajit4119&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
+</p>
 
 <br>
 
