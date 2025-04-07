@@ -43,11 +43,11 @@ class Developer:
         self.future = "AI/ML/NLP Specialist"
         self.status = "Building projects and leveling up"
 
-    def speak(self):
+    def greet(self):
         print("Hey there 👋, welcome to my GitHub multiverse!")
 
 me = Developer()
-me.speak()
+me.greet()
 ```
 
 <br>
@@ -76,10 +76,10 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 ## 🛠️ Toolbelt
 
 ```text
-Languages   |  Python 🐍, C 💻, Shell Scripting ⚙️
+Languages   |  Python 🐍, C 💻, Java 📱, HTML 🕸️, CSS 🎨, JavaScript 🧩
 Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼
 Tools       |  Git 🧬, VS Code 🧠, jupiter notebook ☁️
-Soft Skills |  Curiosity 🔍, Consistency 🔁, Communication 📢
+Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, Temwork 🫱🏻‍🫲🏼, Communication 📢
 ```
 
 <br>
@@ -88,7 +88,7 @@ Soft Skills |  Curiosity 🔍, Consistency 🔁, Communication 📢
 
 - 🧠 Training brain cells with **DSA Problems**.
 - 📚 Practicing SQL, DBMS.
-- 🔗 Working on internship on **Full-stack Web Development**.
+- 🔗 Working on an internship on **Full-stack Web Development**.
 - 🤖 Dreaming up a future of **Machine Learning models** and cool APIs.
 
 <br>
@@ -98,11 +98,11 @@ Soft Skills |  Curiosity 🔍, Consistency 🔁, Communication 📢
 > _“Don’t chase stars. Chase commits.” – Ancient Git Philosopher_
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img hight="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumyajit4119&theme=radical&hide_border=true"/>
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit4119&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
 </p>
 
 <br>
