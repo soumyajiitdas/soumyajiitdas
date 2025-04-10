@@ -126,18 +126,7 @@ Things that make people go:
 
 <br>
 
-### ⚡ Fun Zone (Hidden Easter Egg)
-
-> 🧩 Clone one of my projects.  
-> 🛠️ Modify it.  
-> 🔥 Break it.  
-> 📦 Push it back with a twist.  
-> 💬 Message me what you changed.  
-> 🎁 I’ll feature your version here.
-
-<br>
-
-### 🧭 TL;DR – I’m not your average dev
+## 🧭 TL;DR – I’m not your average dev
 
 If you’re looking for:
 - A passionate, purpose-driven coder
