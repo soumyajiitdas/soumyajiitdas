@@ -67,8 +67,9 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 | Project | Idea | Status |
 |--------|------|--------|
 | 🏏 `1v1 Cricket Game` | Python meets childhood nostalgia. Guess the number, outsmart the bot. | ✅ Completed |
-| 🐍 `Snake & Ladder` | Classic dice chaos meets object-oriented code. | 🛠️ WIP |
-| 📸 `Motion Detector` | Your webcam knows when you move. Don't blink. | 🔜 Coming Soon |
+| 🐍 `Snake & Ladder` | Classic dice chaos meets object-oriented code. | ✅ Completed |
+| 📑 `Daily Journal Analyzer` | How was your day? Tell your new assistant | ✅ Completed |
+| 📸 `Motion Detector` | Your webcam knows when you move. Don't blink. | 🛠️ WIP |
 | 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face? | 🔜 Coming Soon |
 
 <br>
@@ -76,8 +77,8 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 ## 🛠️ Toolbelt
 
 ```text
-Languages   |  Python 🐍, C 💻, Java 📱, HTML 🕸️, CSS 🎨, JavaScript 🧩
-Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼
+Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱
+Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼, Matplotlib 📊
 Tools       |  Git 🧬, VS Code 🧠, jupiter notebook ☁️
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, Temwork 🫱🏻‍🫲🏼, Communication 📢
 ```
