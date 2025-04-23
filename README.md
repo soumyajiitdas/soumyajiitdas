@@ -39,12 +39,12 @@
 class Developer:
     def __init__(self):
         self.name = "Soumyajit Das"
-        self.stack = ["Python", "C", "OpenCV", "DSA"]
-        self.future = "AI/ML/NLP Specialist"
-        self.status = "Building projects and leveling up"
+        self.stack = ["Python", "C", "Java", "DSA", "Web Dev", "ML"]
+        self.future = "SDE/SWE, AI/ML Engineer"
+        self.status = "Leveling up through learning and documenting my journey"
 
     def greet(self):
-        print("Hey there 👋, welcome to my GitHub multiverse!")
+        print("Hey there 👋, welcome to my GitHub Multiverse 🌏!")
 
 me = Developer()
 me.greet()
@@ -74,13 +74,13 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 
 <br>
 
-## 🛠️ Toolbelt
+## 🛠️ ToolBelt
 
 ```text
 Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱
-Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼, Matplotlib 📊
-Tools       |  Git 🧬, VS Code 🧠, jupiter notebook ☁️
-Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, Temwork 🫱🏻‍🫲🏼, Communication 📢
+Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼, MatPlotLib 📊
+Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📑
+Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢
 ```
 
 <br>
@@ -88,7 +88,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, Temwork 🫱
 ## 🚧 Building Right Now...
 
 - 🧠 Training brain cells with **DSA Problems**.
-- 📚 Practicing SQL, DBMS.
+- 📚 Practicing **SQL, DBMS**.
 - 🔗 Working on an internship on **Full-stack Web Development**.
 - 🤖 Dreaming up a future of **Machine Learning models** and cool APIs.
 
