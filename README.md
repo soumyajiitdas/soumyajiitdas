@@ -130,13 +130,13 @@ Things that make people go:
 
 ## 🧭 TL;DR – About Me
 
-I am a dedicated and goal-oriented software developer with a strong focus on:
+I am a dedicated and goal-oriented aspiring developer with a strong focus on:
 
 * Writing clean, efficient, and maintainable code
 * Following best practices and thoroughly reviewing project documentation
 * Approaching each project with a structured and thoughtful development process
 
-**If you're looking for a developer who values quality and attention to detail, you've come to the right place.** Feel free to explore my work.
+**If you're looking for a coder who values quality and attention to detail, you've come to the right place.** Feel free to explore my work.
 
 <br>
 
