@@ -1,4 +1,4 @@
-<h1>📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Creating. Contributing. 🚀</h1>
+<h1>📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Crashing. Fixing. 🚀</h1>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="center">
@@ -70,6 +70,7 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 | 🏏 `1v1 Cricket Game`            | Python meets childhood nostalgia. Guess the number, outsmart the bot  | ✅ Completed   |
 | 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
+| ⬇️ `Mark_MyGfG`                  | From GeeksforGeeks to GitHub-ready — markdown in a click              | ✅ Completed   |
 | 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | 🛠️ WIP         |
 | 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face?                          | 🔜 Coming Soon |
 
@@ -79,7 +80,7 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 
 ```text
 Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱
-Libraries   |  OpenCV 👁️, NumPy 🔢, Pandas 🐼, MatPlotLib 📊
+Libraries   |  NumPy 🔢, Pandas 🐼, Tkinter 🪄, MatPlotLib 📊, OpenCV 👁️
 Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📑
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢
 ```
@@ -91,7 +92,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 - 🧠 Training brain cells with **DSA Problems**.
 - 📚 Practicing **SQL, DBMS, Web Dev**.
 - 🔗 Working on a group hackthon project [**Clairvoyance**](https://github.com/awkwardish/Clairvoyance_prototype).
-- 🤖 Dreaming up a future of **Machine Learning models** and cool APIs.
+- 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
 <br>
 
@@ -111,10 +112,12 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 
 ## 🤓 Let's Collaborate or Just Chat
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/soumyajit-das2003)  
-- 🐦 [Twitter](https://twitter.com/incogni21419574)  
-- 📷 [Instagram](https://instagram.com/soumyajiit_)  
-- 📧 Email: `soumyajit302@gmail.com`  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/soumyajit4119)  
+- 🐦 [X(formerly Twitter)](https://x.com/soumyajiit_)  
+- 📷 [Instagram](https://instagram.com/soumyajiit_)
+- 🧑🏻 [Facebook)](https://www.facebook.com/soumyajit4119/) 
+- 📧 Email: `soumyajit302@gmail.com`
+  
 > 🧠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
 
 <br>
