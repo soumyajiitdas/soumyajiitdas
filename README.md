@@ -1,11 +1,5 @@
-<h1 align="center">📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Crashing. Fixing. 🚀</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="120px">
-</p>
-
-
-
-## 🚀 Tech Stack & Learning Path
+<h1>📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Crashing. Fixing. 🚀</h1>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="center">
   <!-- Languages -->
@@ -32,9 +26,12 @@
   <!-- Learning -->
   <img src="https://img.shields.io/badge/DSA-Important-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Learning-DL-blueviolet.svg" />
+  <img src="https://img.shields.io/badge/Learning-ComputerVision-informational.svg" />
+  <img src="https://img.shields.io/badge/Learning-NLP-success.svg" /> -->
 </p>
 
-
+<br>
 
 ```python
 class AspiringDev:
@@ -52,7 +49,7 @@ me = AspiringDev()
 me.greet()
 ```
 
-
+<br>
 
 ## ⭕ @CuriousL◌◌p🐜
 
@@ -60,22 +57,23 @@ I'm a Computer Science and Engineering student, currently pursuing my Bachelor o
 
 > **Motto:** “ Break things. Learn fast. Automate harder. ”
 
-
+<br>
 
 ## 🎮 Projects I’m Proud Of
 
 🧠 **Brainy Bots & Logic Games**  
-These aren’t just "fun little projects" — they're logic-powered machines with a soul.  
+These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
+
 | Project                          | Idea                                                                  | Status          |
 |----------------------------------|-----------------------------------------------------------------------|-----------------|
-| 🏏 `1v1 Cricket Game`            | Python meets childhood nostalgia. Guess the number, outsmart the bot  | ✅ Completed   |
-| 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
+| 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | 🛠️ WIP         |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
 | ⬇️ `Mark_MyGfG`                  | From GeeksforGeeks to GitHub-ready — markdown in a click              | ✅ Completed   |
-| 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | 🛠️ WIP         |
-| 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face?                          | 🔜 Coming Soon |
+| 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
+| 🏏 `1v1 Cricket Game`            | Python meets childhood nostalgia. Guess the number, outsmart the bot  | ✅ Completed   |
+<!-- | 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face?                          | 🔜 Coming Soon | -->
 
-
+<br>
 
 ## 🛠️ ToolBelt
 
@@ -86,7 +84,7 @@ Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📑
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢
 ```
 
-
+<br>
 
 ## 🚧 Building Right Now...
 
@@ -95,7 +93,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 - 🔗 Working on a group hackthon project [**Clairvoyance**](https://github.com/awkwardish/Clairvoyance_prototype).
 - 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
-
+<br>
 
 ## 📊  Stats? Here’s the charts...
 
@@ -109,21 +107,18 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
   <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
 </p>
 
-
+<br>
 
 ## 🤓 Let's Collaborate or Just Chat
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumyajit4119"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://x.com/soumyajiit_"><img src="https://img.shields.io/badge/X-black?style=flat&logo=twitter"></a>
-  <a href="https://instagram.com/soumyajiit_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/soumyajit4119/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>
-  <a href="mailto:soumyajit302@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
-  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/soumyajit4119)  
+- 🐦 [X(formerly Twitter)](https://x.com/soumyajiit_)  
+- 📷 [Instagram](https://instagram.com/soumyajiit_)
+- 🧑🏻 [Facebook](https://www.facebook.com/soumyajit4119/) 
+- 📧 Email: `soumyajit302@gmail.com`
 > 🧠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
 
-
+<br>
 
 ## 🧑🏻‍💻 Not Just Coding... Creating.
 
@@ -132,7 +127,7 @@ Things that make people go:
 
  _“ Wait… you made *that* in Python❓ ”_
 
-
+<br>
 
 ## 🧭 TL;DR – About Me
 
