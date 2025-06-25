@@ -2,36 +2,32 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
-  <!-- Web Dev -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!-- Web Dev -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 
-  <!-- DB & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<!-- DB & Tools -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 
-  <!-- Learning -->
-  <img src="https://img.shields.io/badge/DSA-Important-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Learning-DL-blueviolet.svg" />
-  <img src="https://img.shields.io/badge/Learning-ComputerVision-informational.svg" />
-  <img src="https://img.shields.io/badge/Learning-NLP-success.svg" /> -->
+<!-- Learning -->
+<img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<br>
 
 ```python
 class AspiringDev:
@@ -49,7 +45,6 @@ me = AspiringDev()
 me.greet()
 ```
 
-<br>
 
 ## ⭕ @CuriousL◌◌p🐜
 
@@ -57,7 +52,6 @@ I'm a Computer Science and Engineering student, currently pursuing my Bachelor o
 
 > **Motto:** “ Break things. Learn fast. Automate harder. ”
 
-<br>
 
 ## 🎮 Projects I’m Proud Of
 
@@ -73,7 +67,6 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 | 🏏 `1v1 Cricket Game`            | Python meets childhood nostalgia. Guess the number, outsmart the bot  | ✅ Completed   |
 <!-- | 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face?                          | 🔜 Coming Soon | -->
 
-<br>
 
 ## 🛠️ ToolBelt
 
@@ -84,7 +77,6 @@ Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📑
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢
 ```
 
-<br>
 
 ## 🚧 Building Right Now...
 
@@ -93,7 +85,6 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 - 🔗 Working on a group hackthon project [**Clairvoyance**](https://github.com/awkwardish/Clairvoyance_prototype).
 - 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
-<br>
 
 ## 📊  Stats? Here’s the charts...
 
@@ -107,7 +98,6 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
   <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
 </p>
 
-<br>
 
 ## 🤓 Let's Collaborate or Just Chat
 
@@ -118,7 +108,6 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 - 📧 Email: `soumyajit302@gmail.com`
 > 🧠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
 
-<br>
 
 ## 🧑🏻‍💻 Not Just Coding... Creating.
 
@@ -127,7 +116,6 @@ Things that make people go:
 
  _“ Wait… you made *that* in Python❓ ”_
 
-<br>
 
 ## 🧭 TL;DR – About Me
 
