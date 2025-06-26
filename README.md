@@ -3,8 +3,9 @@
 
 <p align="center">
 <!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-228B22?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 <!-- Web Dev -->
@@ -25,7 +26,7 @@
 
 <!-- Learning -->
 <img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
 
@@ -91,11 +92,11 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 > _“ Don’t chase stars. Chase commits. ”     – Ancient Git Philosopher_
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajit4119&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit4119&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajiitdas&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajiitdas&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajit4119&theme=radical" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" />
 </p>
 
 
