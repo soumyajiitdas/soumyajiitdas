@@ -49,9 +49,15 @@ me.greet()
 
 ## ⭕ @CuriousL◌◌p🐜
 
-I'm a Computer Science and Engineering student, currently pursuing my Bachelor of Technology from Murshidabad College of Engineering and Technology, Berhampore (W.B.). I am from West Bengal — where the rice is hot and the code is hotter. My journey into the world of development started with curiosity and caffeine. Now? I turn ideas into Python scripts and bugs into GitHub commits.
+I'm a Computer Science and Engineering undergrad from Murshidabad College of Engineering and Technology, Berhampore (W.B.), passionate about writing clean code and solving real-world problems.
 
-> **Motto:** “ Break things. Learn fast. Automate harder. ”
+My journey started with Python scripts fueled by curiosity and caffeine, and now spans full-stack development, AI experiments, and late-night GitHub sessions.
+
+From West Bengal — Where chai brews ideas and code compiles dreams — I’m learning by doing, committing often, and constantly improving.
+
+Always up for collaboration, innovation, and a good debugging challenge.
+
+> **Motto:** “ Break things. Understand deeper. Build stronger ”
 
 
 ## 🎮 Projects I’m Proud Of
