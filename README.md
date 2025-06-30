@@ -109,7 +109,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 ## 🤓 Let's Collaborate or Just Chat
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/soumyajit4119)  
-- 🐦 [X(formerly Twitter)](https://x.com/soumyajiit_)  
+- 🐦 [X (formerly Twitter)](https://x.com/soumyajiit_)  
 - 📷 [Instagram](https://instagram.com/soumyajiit_)
 - 🧑🏻 [Facebook](https://www.facebook.com/soumyajit4119/) 
 - 📧 Email: `soumyajit302@gmail.com`
