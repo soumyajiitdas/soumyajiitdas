@@ -1,5 +1,4 @@
 <h1>📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Crashing. Fixing. 🚀</h1>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 <p align="center">
 <!-- Languages -->
@@ -29,6 +28,7 @@
 <img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/>
 </p>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ```python
 class AspiringDev:
@@ -68,6 +68,7 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 | Project                          | Idea                                                                  | Status          |
 |----------------------------------|-----------------------------------------------------------------------|-----------------|
 | 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | 🛠️ WIP         |
+| 😎 `My-Portfolio` (Prototype)    | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
 | ⬇️ `Mark_MyGfG`                  | From GeeksforGeeks to GitHub-ready — markdown in a click              | ✅ Completed   |
 | 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
@@ -78,17 +79,18 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 ## 🛠️ ToolBelt
 
 ```text
-Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱
-Libraries   |  NumPy 🔢, Pandas 🐼, Tkinter 🪄, MatPlotLib 📊, OpenCV 👁️
-Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📑
-Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢
+Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱,
+Libraries   |  NumPy 🔢, Pandas 🐼, React 📱, TailwindCSS 🎨, MatPlotLib 📊, OpenCV 👁️,
+Frameworks  |  NextJs 📑, ViteJs 📜,
+Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📒
+Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢,
 ```
 
 
 ## 🚧 Building Right Now...
 
 - 🧠 Training brain cells with **DSA Problems**.
-- 📚 Practicing **SQL, DBMS, Web Dev**.
+- 📚 Practicing **DBMS, Web Dev**.
 - 🔗 Working on a group hackthon project [**Clairvoyance**](https://github.com/awkwardish/Clairvoyance_prototype).
 - 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
