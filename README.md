@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
-<p align="left">
+<p align="center">
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -67,8 +67,8 @@ These aren’t just "fun little projects" — they're logic-powered machines wit
 
 | Project                          | Idea                                                                  | Status          |
 |----------------------------------|-----------------------------------------------------------------------|-----------------|
-| 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | 🛠️ WIP         |
-| 😎 `My-Portfolio` (Prototype)    | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
+| 👨🏻‍💻 `My-Portfolio`                | A dev's identity in code – animated, responsive, and resume-ready     | 🛠️ WIP         |
+| 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
 | ⬇️ `Mark_MyGfG`                  | From GeeksforGeeks to GitHub-ready — markdown in a click              | ✅ Completed   |
 | 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
@@ -90,8 +90,8 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 ## 🚧 Building Right Now...
 
 - 🧠 Training brain cells with **DSA Problems**.
-- 📚 Practicing **DBMS, Web Dev**.
-- 🔗 Working on a group hackthon project [**Clairvoyance**](https://github.com/awkwardish/Clairvoyance_prototype).
+- 📚 Practicing **Python, Full Stack Web Dev** and exploring **new technologies** .
+- 🔗 Working on **my final year project** in a group.
 - 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
 
@@ -126,19 +126,11 @@ Things that make people go:
  _“ Wait… you made *that* in Python❓ ”_
 
 
-## 🧭 TL;DR – About Me
-
-I am a dedicated and goal-oriented aspiring developer with a strong focus on:
-
-* Writing clean, efficient, and maintainable code
-* Following best practices and thoroughly reviewing project documentation
-* Approaching each project with a structured and thoughtful development process
-
-**If you're looking for a coder who values quality and attention to detail, you've come to the right place.** Feel free to explore my work.
-
 > “The best way to predict the future is to build it — in Python preferably.”  
 > — *Me, probably.*
 
-<p align="center"><strong>Built with ❤️, caffeine, and a passion for code.</strong></p>
-
 ---
+
+<!-- <p align="center"><strong>Built with ❤️, caffeine, and a passion for code.</strong></p>
+
+--- -->
