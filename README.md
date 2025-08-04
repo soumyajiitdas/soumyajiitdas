@@ -28,6 +28,7 @@
 <!-- Learning -->
 <img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/>
+<a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025" /></a>
 </p>
 
 ```python
