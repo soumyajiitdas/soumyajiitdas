@@ -6,12 +6,12 @@
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-228B22?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-228B22?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 
 <!-- Web Dev -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 
 <!-- Frameworks -->
@@ -21,14 +21,19 @@
 
 <!-- DB & Tools -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
 
 <!-- Learning -->
 <img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/>
-<a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025" /></a>
+<!-- <img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/> -->
+
+<!-- Others -->
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+<img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025"/>
+<!-- <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/"/> -->
 </p>
 
 ```python
@@ -63,11 +68,12 @@ Always up for collaboration, innovation, and a good debugging challenge.
 
 ## 🎮 Projects I’m Proud Of
 
-🧠 **Brainy Bots & Logic Games**  
-These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
+🧠 **Time Coded Since 6th Jul, 2025** --> <img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025" />
+- These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
 
 | Project                          | Idea                                                                  | Status          |
 |----------------------------------|-----------------------------------------------------------------------|-----------------|
+| 👨🏻‍💻 My Final Year Project         | ...    | 🛠️ WIP         |
 | 👨🏻‍💻 `My-Portfolio`                | A dev's identity in code – animated, responsive, and resume-ready     | 🛠️ WIP         |
 | 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
@@ -108,14 +114,29 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
   <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" />
 </p>
 
-
 ## 🤓 Let's Collaborate or Just Chat
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/soumyajit4119)  
-- 🐦 [X (formerly Twitter)](https://x.com/soumyajiit_)  
-- 📷 [Instagram](https://instagram.com/soumyajiit_)
-- 🧑🏻 [Facebook](https://www.facebook.com/soumyajit4119/) 
-- 📧 Email: `soumyajit302@gmail.com`
+<p align=center>
+    <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank" rel="noopener noreferrer" title="@soumyajit4119" aria-label="Linkedin - Soumyajit">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    <a href="#" title="@soumyajiitdas" aria-label="GitHub - Soumyajit">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://instagram.com/soumyajiit_" target="_blank" rel="noopener noreferrer" title="@soumyajiit_" aria-label="Instagram - Soumyajit">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.facebook.com/soumyajit4119/" target="_blank" rel="noopener noreferrer" title="@soumyajit4119" aria-label="Facebook - Soumyajit">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://x.com/soumyajiit_" target="_blank" rel="noopener noreferrer" title="@soumyajiit_" aria-label="X - Soumyajit">
+        <img src="https://img.shields.io/badge/X-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formarly Twitter)" />
+    </a>
+    <a href="mailto:soumyajit302@gmail.com?subject=Hello%20Soumyajit&body=I%20wanted%20to%20reach%20out%20about..." title="soumyajit302@gmail.com" aria-label="Send email to Soumyajit Das">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</p>
+
 > 🧠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
 
 
@@ -127,11 +148,15 @@ Things that make people go:
  _“ Wait… you made *that* in Python❓ ”_
 
 
-> “The best way to predict the future is to build it — in Python preferably.”  
-> — *Me, probably.*
-
+<!-- > “The best way to predict the future is to build it — in Python preferably.”  
+> — *Me, probably.* -->
 ---
 
-<!-- <p align="center"><strong>Built with ❤️, caffeine, and a passion for code.</strong></p>
+<p align="center">
+  <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
---- -->
+
+<p align="center"><strong>Crafting with ❤️, caffeine, and a passion for code.👨🏻‍💻</strong></p>
+
+---
