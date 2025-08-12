@@ -1,39 +1,34 @@
 <h1>📢 Hi, I'm Soumyajit Das <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> | Coding. Crashing. Fixing. 🚀</h1>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<a href="#"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'></a>
 
 <p align="center">
 <!-- Languages -->
-<img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-228B22?logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-
+<a href="#"><img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-228B22?logo=openjdk&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
 <!-- Web Dev -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a>
 <!-- Frameworks -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/></a>
 <!-- DB & Tools -->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-
+<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/></a>
 <!-- Learning -->
-<img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/>
-<!-- <img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/> -->
-
+<a href="#"><img src="https://img.shields.io/badge/DSA-Important-red?style=flat"/></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white"/></a> -->
 <!-- Others -->
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
-<img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025"/>
-<!--<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/"/>-->
+<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/></a>
+<a href="#"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded since Jul 6 2025"/></a>
+<!-- <a href="#"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/"/></a> -->
 </p>
 
 ```python
@@ -70,7 +65,7 @@ Always up for collaboration, innovation, and a good debugging challenge.
 
 ## 🎮 Projects I’m Proud Of
 
-🧠 **Time Coded Since 6th Jul, 2025** --> <img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025" />
+🧠 **Time Coded Since 6th Jul, 2025** --> <a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878" target="_blank"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded since Jul 6 2025" /></a>
 - These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
 
 | Project                          | Idea                                                                  | Status          |
@@ -111,11 +106,11 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 > _“ Don’t chase stars. Chase commits. ”     – Ancient Git Philosopher_
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajiitdas&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajiitdas&layout=compact&&show_icons=true&theme=radical&hide_border=true"/>
+  <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajiitdas&theme=radical&show_icons=true&hide_border=true&count_private=true"/></a>
+  <a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajiitdas&layout=compact&&show_icons=true&theme=radical&hide_border=true"/></a>
 </p>
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" />
+  <a href="#"><img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" /></a>
 </p>
 
 ## 🧑🏻‍💻 Not Just Coding... Creating.
@@ -135,30 +130,18 @@ Things that make people go:
 ## 🍻 Let's Collaborate or Just Chat
 
 <p align=center>
-    <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank" rel="noopener noreferrer" title="@soumyajit4119" aria-label="Linkedin - Soumyajit">
-        <img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    <a href="#" title="@soumyajiitdas" aria-label="GitHub - Soumyajit">
-        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://instagram.com/soumyajiit_" target="_blank" rel="noopener noreferrer" title="@soumyajiit_" aria-label="Instagram - Soumyajit">
-        <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.facebook.com/soumyajit4119/" target="_blank" rel="noopener noreferrer" title="@soumyajit4119" aria-label="Facebook - Soumyajit">
-        <img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://x.com/soumyajiit_" target="_blank" rel="noopener noreferrer" title="@soumyajiit_" aria-label="X - Soumyajit">
-        <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formarly Twitter)" />
-    </a>
-    <a href="mailto:soumyajit302@gmail.com?subject=Hello%20Soumyajit&body=I%20wanted%20to%20reach%20out%20about..." title="soumyajit302@gmail.com" aria-label="Send email to Soumyajit Das">
-        <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
-    </a>
+    <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank"><img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+    <a href="#" title="@soumyajiitdas" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+    <a href="https://instagram.com/soumyajiit_" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.facebook.com/soumyajit4119/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+    <a href="https://x.com/soumyajiit_" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formarly Twitter)"/></a>
+    <a href="mailto:soumyajit302@gmail.com?subject=Hello%20Soumyajit&body=I%20wanted%20to%20reach%20out%20about..."><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/></a>
 </p>
 
 <p align="center"><strong>Crafting with ❤️, caffeine, and a passion for code.👨🏻‍💻</strong></p>
