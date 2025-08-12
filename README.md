@@ -32,8 +32,8 @@
 
 <!-- Others -->
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
-<img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025"/>
-<!-- <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/"/> -->
+<!--<img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg" alt="Total time coded since Jul 6 2025"/>-->
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/"/>
 </p>
 
 ```python
@@ -73,7 +73,8 @@ Always up for collaboration, innovation, and a good debugging challenge.
 
 | Project                          | Idea                                                                  | Status          |
 |----------------------------------|-----------------------------------------------------------------------|-----------------|
-| 👨🏻‍💻 My Final Year Project         | ...    | 🛠️ WIP         |
+| ⁉️ My Final Year Project         | <thinking...>                                                         | ⚠️ Not Started |
+| ❤️‍🩹 `CareHive-Clinic`             | Where care meets convenience – book, consult, and heal online         | 🛠️ WIP         |
 | 👨🏻‍💻 `My-Portfolio`                | A dev's identity in code – animated, responsive, and resume-ready     | 🛠️ WIP         |
 | 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
 | 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
@@ -155,7 +156,6 @@ Things that make people go:
 <p align="center">
   <img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
 
 <p align="center"><strong>Crafting with ❤️, caffeine, and a passion for code.👨🏻‍💻</strong></p>
 
