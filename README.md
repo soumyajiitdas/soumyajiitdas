@@ -112,6 +112,9 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 <p align="center">
   <a href="#"><img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" /></a>
 </p>
+<p align="center">
+  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=soumyajiitdas&theme=radical&no-frame=true&margin-w=5"/></a>
+</p>
 
 ## 🧑🏻‍💻 Not Just Coding... Creating.
 
