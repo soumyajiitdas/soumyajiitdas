@@ -1,6 +1,7 @@
 <h1>📢 Hi, I'm Soumyajit Das <a href="#"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving emoji" width="40px"></a> | Coding. Crashing. Fixing. <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" alt="Rocket" width="55"/></a></h1>
 
-<a href="#"><img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb' alt="Github logo" width='300'></a>
+<!-- <a href="#"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Github logo" width='30%'></a> -->
+<a href="#"><img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb' alt="Coding from home" width='250'></a>
 
 <p align="center">
 <!-- Languages -->
@@ -34,8 +35,8 @@
 ```python
 class AspiringDev:
     def __init__(self):
-        self.name = "Soumyajit Das"
-        self.stack = ["Python", "C", "Java", "DSA", "Web Dev", "DBMS"]
+        self.pronouns: "he" | "him"
+        self.stack = ["Python",  "JavaScript", "DSA", "Web Dev", "DBMS", "Git"]
         self.role = "Aspiring Developer, Problem Solver, and Lifelong Learner"
         self.future = "SDE/SWE, AI/ML Engineer"
         self.status = "Leveling up through learning and documenting my journey..."
@@ -48,9 +49,10 @@ me.greet()
 ```
 
 <details>
-<summary>📌 feat: add dev story 💭</summary>
+    <!-- <summary>📌 feat: add dev story 💭</summary> -->
+    <summary><a href="#"><img width="400" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Cat and Mouse"></a></summary>
 
-## <a href="#"><img width="35" height="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone"/></a> @CuriousL◌◌p <a href="#"><img width="35" height="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ant.png" alt="Ant"/></a>
+## <a href="#"><img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone"/></a> @CuriousL◌◌p <a href="#"><img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ant.png" alt="Ant"/></a>
 
 I'm a Computer Science and Engineering undergrad from Murshidabad College of Engineering and Technology, Berhampore (W.B.), passionate about writing clean code and solving real-world problems.
 
@@ -65,43 +67,42 @@ Always up for collaboration, innovation, and a good debugging challenge.
 
 ## 🗃️ Projects I’m Proud Of
 
-<a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Twelve O’Clock.png" alt="Twelve O’Clock" width="30" height="30" /></a> <strong>Time Coded Since 6th Jul, 2025 --></strong> <a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878" target="_blank"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded badge" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Twelve O’Clock.png" alt="Twelve O’Clock" width="30" /></a> <strong>Time Coded Since 6th Jul, 2025 --></strong> <a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878" target="_blank"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded badge" /></a>
 - These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
 
-| Project                          | Idea                                                                  | Status          |
-|----------------------------------|-----------------------------------------------------------------------|-----------------|
-| ❓ My Final Year Project         | <thinking...>                                                         | ⚠️ Not Started |
-| ❤️‍🩹 `CareHive-Clinic`             | Where care meets convenience – book, consult, and heal online         | 🛠️ WIP         |
-| 👨🏻‍💻 `My-Portfolio`                | A dev's identity in code – animated, responsive, and resume-ready     | 🛠️ WIP         |
-| 😎 `Clairvoyance`                | Because reading may not be for everyone, but hearing is               | ✅ Completed   |
-| 📑 `Daily Journal Analyzer`      | How was your day? Tell your new assistant                             | ✅ Completed   |
-| ⬇️ `Mark_MyGfG`                  | From GeeksforGeeks to GitHub-ready — markdown in a click              | ✅ Completed   |
-| 🐍 `Snake & Ladder`              | Classic dice chaos meets object-oriented code                         | ✅ Completed   |
-| 🏏 `1v1 Cricket Game`            | Python meets childhood nostalgia. Guess the number, outsmart the bot  | ✅ Completed   |
-<!-- | 👁️ `Face Recognition Attendance` | Who needs proxies when code knows your face?                          | 🔜 Coming Soon | -->
+| Project                                                                                 | Idea                                                                 | Status          |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|
+| ❓ `My Final Year Project`                                                              | <thinking...>                                                        | ⚠️ Not Started |
+| ❤️‍🩹 [`CareHive-Clinic`](https://github.com/soumyajiitdas/CareHive-Clinic)                | Where care meets convenience – book, consult, and heal online        | 🛠️ WIP         |
+| 👨🏻‍💻 [`My-Portfolio`](https://github.com/soumyajiitdas/Personal-Portfolio)                | A dev's identity in code – animated, responsive, and resume-ready    | 🛠️ WIP         |
+| 😎 [`Clairvoyance`](https://github.com/awkwardish/Clairvoyance_prototype)               | Because reading may not be for everyone, but hearing is              | ✅ Completed   |
+| 📑 [`Daily Journal Analyzer`](https://github.com/soumyajiitdas/My-GenAICapstoneProject) | How was your day? Tell your new assistant                            | ✅ Completed   |
+| ⬇️ [`Mark_MyGfG`](https://github.com/soumyajiitdas/Markdown-MyGfG)                      | From GeeksforGeeks to GitHub-ready — markdown in a click             | ✅ Completed   |
+| 🐍 `Snake & Ladder`                                                                     | Classic dice chaos meets object-oriented code                        | ✅ Completed   |
+| 🏏 `1v1 Cricket Game`                                                                   | Python meets childhood nostalgia. Guess the number, outsmart the bot | ✅ Completed   |
 
 
 ## <a href="#"><img width='45px' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Arrow-slash"></a> ToolBelt
 
 ```text
 Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱,
-Libraries   |  NumPy 🔢, Pandas 🐼, React 📱, TailwindCSS 🎨, MatPlotLib 📊, OpenCV 👁️,
+Libraries   |  React 📱, TailwindCSS 🎨, MatPlotLib 📊, NumPy 🔢, Pandas 🐼,
 Frameworks  |  NextJs 📑, ViteJs 📜,
-Tools       |  Git 🧬, VS Code 🗃️, Jupiter Notebook 📒
+Tools       |  Git 🧬, VS Code 🪬, Jupiter Notebook 📒
+Databases   |  MySQL 📦, MongoDB 💼,
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢,
 ```
-
 
 ## <a href="#"><img width='45px' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" alt="gare"></a> Building Right Now...
 
 - 🧠 Training brain cells with **DSA Problems**.
 - 📚 Practicing **Python, Full Stack Web Dev** and exploring **new technologies** .
-- 🔗 Working on **my final year project** in a group.
+- 🔗 Working on  **my final year project** and `CareHive-Clinic` in a group.
 - 🤖 Dreaming up a future of intelligent systems, scalable software, and real-world ML solutions.
 
-> 🧠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
+> 🫠 **Fun Fact:** I treat my Git commits like journal entries. Each one has a story.
 
-## <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35" height="35"/></a>  Stats? Here’s the charts...
+## <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="35"/></a>  Stats? Here’s the charts...
 
 > _“ Don’t chase stars. Chase commits. ”     – Ancient Git Philosopher_
 
@@ -116,7 +117,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
   <a href="#"><img width="92%" src="https://github-profile-trophy.vercel.app/?username=soumyajiitdas&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies"/></a>
 </p>
 
-## <a href="#"><img width="35" height="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist"/></a> Not Just Coding... Creating.
+## <a href="#"><img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist"/></a> Not Just Coding... Creating.
 
 I don't build projects for the sake of it. I build **experiences**.  
 Things that make people go:
@@ -130,7 +131,7 @@ Things that make people go:
 
 </details>
 
-## <a href="#"><img width="95" height="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Let's Collaborate or Just Chat
+## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Let's Collaborate or Just Chat
 
 <p align=center>
     <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank"><img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
@@ -141,12 +142,13 @@ Things that make people go:
     <a href="mailto:soumyajit302@gmail.com?subject=Hello%20Soumyajit&body=I%20wanted%20to%20reach%20out%20about..."><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
+<!-- <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Sapetator"></a> -->
 ---
 
 <p align="center">
   <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quotes"/></a>
 </p>
 
-<p align="center"><strong>Crafting with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35" height="35" />, caffeine, and a passion for code <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /></strong></p>
+<p align="center"><strong>Crafting with<a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35"/></a>, caffeine, and a passion for code <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40"/></a></strong></p>
 
 ---
