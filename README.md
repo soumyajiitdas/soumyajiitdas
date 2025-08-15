@@ -1,4 +1,4 @@
-<h1>📢 Hi, I'm Soumyajit Das <a href="#"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving emoji" width="40px"></a> | Coding. Crashing. Fixing. <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" alt="Rocket" width="55"/></a></h1>
+<h1>📢 Hi, I'm Soumyajit Das <a href="#"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving emoji" width="40px"></a> | Coding. Crashing. Fixing. <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" alt="Rocket" width="50"/></a></h1>
 
 <!-- <a href="#"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Github logo" width='30%'></a> -->
 <a href="#"><img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb' alt="Coding from home" width='250'></a>
@@ -49,8 +49,8 @@ me.greet()
 ```
 
 <details>
-    <!-- <summary>📌 feat: add dev story 💭</summary> -->
-    <summary><a href="#"><img width="400" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Cat and Mouse"></a></summary>
+    <summary>📌 feat: add dev story... 💭</summary>
+    <!-- <summary><a href="#"><img width="400" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Cat and Mouse"></a></summary> -->
 
 ## <a href="#"><img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone"/></a> @CuriousL◌◌p <a href="#"><img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Ant.png" alt="Ant"/></a>
 
@@ -65,7 +65,7 @@ Always up for collaboration, innovation, and a good debugging challenge.
 > **Motto:** “ Break things. Understand deeper. Build stronger ”
 
 
-## 🗃️ Projects I’m Proud Of
+## 🗃️ Projects I’m Proud Of...
 
 <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Twelve O’Clock.png" alt="Twelve O’Clock" width="30" /></a> <strong>Time Coded Since 6th Jul, 2025 --></strong> <a href="https://wakatime.com/@a7c49aa5-ad65-4176-bfd5-65724f8c0878" target="_blank"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded badge" /></a>
 - These aren’t just "fun little projects" — they're logic-powered machines with a soul. 
@@ -82,7 +82,7 @@ Always up for collaboration, innovation, and a good debugging challenge.
 | 🏏 `1v1 Cricket Game`                                                                   | Python meets childhood nostalgia. Guess the number, outsmart the bot | ✅ Completed   |
 
 
-## <a href="#"><img width='45px' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Arrow-slash"></a> ToolBelt
+## <a href="#"><img width='45px' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Arrow-slash"></a> In My ToolBox...
 
 ```text
 Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱,
@@ -131,7 +131,7 @@ Things that make people go:
 
 </details>
 
-## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Let's Collaborate or Just Chat
+## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Let's Connect...
 
 <p align=center>
     <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank"><img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
@@ -149,6 +149,6 @@ Things that make people go:
   <a href="#"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quotes"/></a>
 </p>
 
-<p align="center"><strong>Crafting with<a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35"/></a>, caffeine, and a passion for code <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="40"/></a></strong></p>
+<p align="center"><strong>Crafting with<a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="35"/></a>, caffeine, and a passion for code. <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="35"/></a></strong></p>
 
 ---
