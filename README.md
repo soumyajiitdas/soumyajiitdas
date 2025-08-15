@@ -1,6 +1,6 @@
-<h1>📢 Hi, I'm Soumyajit Das <a href="#"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving emoji" width="40px"></a> | Coding. Crashing. Fixing. <a href="#"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40"/></a></h1>
+<h1>📢 Hi, I'm Soumyajit Das <a href="#"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Waving emoji" width="40px"></a> | Coding. Crashing. Fixing. <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" alt="Rocket" width="55"/></a></h1>
 
-<a href="#"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' alt="Github logo" width='30%'></a>
+<a href="#"><img align='right' src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb' alt="Github logo" width='300'></a>
 
 <p align="center">
 <!-- Languages -->
@@ -92,7 +92,7 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
 ```
 
 
-## <a href="#"><img width='45px' src="https://private-user-images.githubusercontent.com/74038190/241763895-fa83eeb9-f4e2-4d85-93f0-688af11babf8.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTUxOTM0MjcsIm5iZiI6MTc1NTE5MzEyNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTUtZmE4M2VlYjktZjRlMi00ZDg1LTkzZjAtNjg4YWYxMWJhYmY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODE0VDE3Mzg0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzYTJlZmIyOWIyNmM5MGYyODlhOTI2YTRjZmVkYjI3ZmE0YTYzYTBkN2VkYWE2Mjk5M2YzOWVlNmM4MGEwOWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dLRWBraLuB321atZERxRWRugSnjLvlcqJfgR9f5rx5c" alt="gare"></a> Building Right Now...
+## <a href="#"><img width='45px' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" alt="gare"></a> Building Right Now...
 
 - 🧠 Training brain cells with **DSA Problems**.
 - 📚 Practicing **Python, Full Stack Web Dev** and exploring **new technologies** .
