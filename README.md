@@ -5,31 +5,32 @@
 
 <p align="center">
 <!-- Languages -->
-<a href="#"><img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white" alt="Python"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-228B22?logo=openjdk&logoColor=white" alt="Java"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-<!-- Web Dev -->
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff" alt="CSS3"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
-<!-- Frameworks -->
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/></a>
-<!-- DB & Tools -->
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VS Code"/></a>
-<!-- Learning -->
-<a href="#"><img src="https://img.shields.io/badge/DSA-Important-red?style=flat" alt="DSA"/></a>
-<!-- <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white" alt="Mechine Learning"/></a> -->
-<!-- Others -->
-<a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"/></a>
-<a href="#"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded since Jul 6 2025"/></a>
-<!-- <a href="#"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/" alt="Open Source"/></a> -->
+    <a href="#"><img src="https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-228B22?logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <!-- Web Dev -->
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff" alt="CSS3"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+    <!-- Frameworks -->
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/></a>
+    <!-- DB & Tools -->
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VS Code"/></a>
+    <!-- Learning -->
+    <!-- <a href="#"><img src="https://img.shields.io/badge/DSA-Problems-red?style=flat" alt="DSA"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-795548?style=flat&logo=scikit-learn&logoColor=white" alt="Mechine Learning"/></a> -->
+    <!-- Others -->
+    <!-- <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"/></a>
+    <a href="https://soumyajitdas.vercel.app"><img src="https://img.shields.io/badge/-My%20Portfolio-F7DF1E?logo=vercel&logoColor=black" alt="My portfolio"/></a> -->
+    <a href="#"><img src="https://wakatime.com/badge/user/a7c49aa5-ad65-4176-bfd5-65724f8c0878.svg?style=social" alt="Total time coded since Jul 6 2025"/></a>
+    <!-- <a href="#"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103/" alt="Open Source"/></a> -->
 </p>
 
 ```python
@@ -39,6 +40,7 @@ class AspiringDev:
         self.stack = ["Python",  "JavaScript", "DSA", "Web Dev", "DBMS", "Git"]
         self.role = "Aspiring Developer, Problem Solver, and Lifelong Learner"
         self.future = "SDE/SWE, AI/ML Engineer"
+        self.portfolio = "https://soumyajitdas.vercel.app"
         self.status = "Leveling up through learning and documenting my journey..."
 
     def greet(self):
@@ -74,7 +76,7 @@ Always up for collaboration, innovation, and a good debugging challenge.
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------|
 | ❓ `My Final Year Project`                                                              | <thinking...>                                                        | ⚠️ Not Started |
 | ❤️‍🩹 [`CareHive-Clinic`](https://github.com/soumyajiitdas/CareHive-Clinic)                | Where care meets convenience – book, consult, and heal online        | 🛠️ WIP         |
-| 👨🏻‍💻 [`My-Portfolio`](https://github.com/soumyajiitdas/Personal-Portfolio)                | A dev's identity in code – animated, responsive, and resume-ready    | 🛠️ WIP         |
+| 👨🏻‍💻 [`Syntax-Constellation`](https://soumyajitdas.vercel.app)                            | A constellation of code and creativity – my personal dev-folio       | ✅ Completed   |
 | 😎 [`Clairvoyance`](https://github.com/awkwardish/Clairvoyance_prototype)               | Because reading may not be for everyone, but hearing is              | ✅ Completed   |
 | 📑 [`Daily Journal Analyzer`](https://github.com/soumyajiitdas/My-GenAICapstoneProject) | How was your day? Tell your new assistant                            | ✅ Completed   |
 | ⬇️ [`Mark_MyGfG`](https://github.com/soumyajiitdas/Markdown-MyGfG)                      | From GeeksforGeeks to GitHub-ready — markdown in a click             | ✅ Completed   |
@@ -86,9 +88,9 @@ Always up for collaboration, innovation, and a good debugging challenge.
 
 ```text
 Languages   |  Python 🐍, HTML 🕸️, CSS 🎨, JavaScript 🧩, C 💻, Java 📱,
-Libraries   |  React 📱, TailwindCSS 🎨, MatPlotLib 📊, NumPy 🔢, Pandas 🐼,
-Frameworks  |  NextJs 📑, ViteJs 📜,
-Tools       |  Git 🧬, VS Code 🪬, Jupiter Notebook 📒
+Libraries   |  React 📱, MatPlotLib 📊, NumPy 🔢, Pandas 🐼,
+Frameworks  |  NextJs 📑, TailwindCSS 🎨, Express.js 🚀, FastAPI ⚡,
+Tools       |  ViteJs 📜, Git 🧬, VS Code 🪬, Jupiter Notebook 📒,
 Databases   |  MySQL 📦, MongoDB 💼,
 Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱🏻‍🫲🏼, Communication 📢,
 ```
@@ -110,12 +112,12 @@ Soft Skills |  Curiosity 🔍, Adaptability 🎭, Consistency 🔁, TemWork 🫱
   <a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=soumyajiitdas&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Profile Stats"/></a>
   <a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajiitdas&layout=compact&&show_icons=true&theme=radical&hide_border=true" alt="Language Stats"/></a>
 </p>
-<p align="center">
-  <a href="#"><img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumyajiitdas&theme=radical" alt="Profile Summary"/></a>
 </p>
 <p align="center">
-  <a href="#"><img width="92%" src="https://github-profile-trophy.vercel.app/?username=soumyajiitdas&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies"/></a>
+  <a href="#"><img src="https://montasim-github-profile-trophy.vercel.app?username=soumyajiitdas&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies"/></a>
 </p>
+<p align="center">
+  <a href="#"><img loading="lazy" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=soumyajiitdas&bg_color=141321&color=00b8b5&line=eb008b&point=d4b941&area=true&hide_border=true&hide_title=true" alt="Contribution Summary"/></a>
 
 ## <a href="#"><img width="40" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist"/></a> Not Just Coding... Creating.
 
@@ -134,11 +136,12 @@ Things that make people go:
 ## <a href="#"><img width="95" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" alt="Clinking Beer Mugs"/></a>Let's Connect...
 
 <p align=center>
-    <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank"><img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+    <a href="https://www.linkedin.com/in/soumyajit4119" target="_blank"><img src="https://img.shields.io/badge/linkedin-1B6AC6.svg?style=for-the-badge&logo=inspire&logoColor=white" alt="Linkedin"/></a>
     <a href="#" title="@soumyajiitdas" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
     <a href="https://instagram.com/soumyajiit_" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://www.facebook.com/soumyajit4119/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
     <a href="https://x.com/soumyajiit_" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (formarly Twitter)"/></a>
+    <a href="https://soumyajitdas.vercel.app"><img src="https://img.shields.io/badge/-My%20Portfolio-ABFF8A?logo=vercel&logoColor=black&style=for-the-badge" alt="My portfolio"/></a>
     <a href="mailto:soumyajit302@gmail.com?subject=Hello%20Soumyajit&body=I%20wanted%20to%20reach%20out%20about..."><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
